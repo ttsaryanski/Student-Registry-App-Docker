@@ -6,5 +6,6 @@
 - CI/CD workflows
 - Build Docker container
 - Run with Docker Compose
+- And test
 
 Not intended for production use.

@@ -5,5 +5,6 @@
 - Jenkins Actions
 - CI/CD workflows
 - Build Docker container
+- Run with Docker Compose
 
 Not intended for production use.

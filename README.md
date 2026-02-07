@@ -1,4 +1,4 @@
-# GitHub Actions Playground
+# Jenkins Playground
 
 ⚠️ Experimental repository - Used for learning and testing:
 
